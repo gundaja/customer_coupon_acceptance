@@ -7,7 +7,7 @@ Link to notebook: https://github.com/gundaja/customer_coupon_acceptance/blob/mai
 ## Data and Tools
 
 - Dataset: `coupons.csv` with user, trip, and coupon attributes (age, income, passenger, weather, time of day, coupon type, etc.).  
-- Tools: Python, `pandas`, `numpy`, `matplotlib`, and `seaborn` for data cleaning, summarization, and visualization.  
+- Tools: Python, `pandas`, `matplotlib`, and `seaborn` for data cleaning, summarization, and visualization.  
 
 ## What the Notebook Does
 
