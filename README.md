@@ -2,7 +2,7 @@
 
 This project analyzes survey data from an in‑vehicle coupon recommendation study to explore **which drivers accept or reject mobile coupons** for places like bars, coffee houses, and restaurants.
 
-Link to notebook: https://github.com/gundaja/customer_coupon_acceptance/coupon_analysis.ipynb
+Link to notebook: https://github.com/gundaja/customer_coupon_acceptance/blob/main/coupon_analysis.ipynb
 
 ## Data and Tools
 
